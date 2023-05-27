@@ -1,0 +1,25 @@
+#cards {
+    margin-top: 74px;
+    
+}
+
+body {
+    background-image: url(../img/desktop-wallpaper-de-digimon-adventures-digimon-1.jpg);
+    background-position: center;
+    background-repeat: round;
+    background-size: contain;
+
+}
+
+#nav {
+
+    background-color: black;
+
+}
+
+.sticky {
+    transition: 1s;
+    opacity: 0.7;
+    
+}
+
